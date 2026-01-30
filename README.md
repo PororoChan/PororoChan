@@ -35,7 +35,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/codeigniter/codeigniter-icon.svg" alt="codeigniter" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codeigniter.svg" alt="codeigniter" width="40" height="40" style="filter: invert(34%) sepia(90%) saturate(3000%) hue-rotate(345deg) brightness(95%) contrast(105%);"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
@@ -46,17 +46,19 @@
 ### 📊 Github Stats
 
 <div align="center">
-  <img width="100%" src="https://metrics.lecoq.io/pororochan?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=Asia%2FJakarta" alt="Metrics" />
-  
-  <br><br>
-
   <table border="0">
     <tr>
       <td>
-        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pororochan&show_icons=true&theme=tokyonight" />
+        <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=pororochan&show_icons=true&theme=tokyonight" />
       </td>
       <td>
-        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pororochan&layout=compact&theme=tokyonight" />
+        <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=pororochan&layout=compact&theme=tokyonight" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <br>
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=pororochan&theme=tokyonight&fire=orange" />
       </td>
     </tr>
   </table>
