@@ -11,8 +11,7 @@
 - 🌱 I’m currently deep diving into **Next.js, Vue.js, and Three.js** while mastering advanced **Tailwind CSS** patterns.
 - 👯 I’m looking to collaborate on **Full-stack projects** (from wireframe to deployment).
 - 🤝 I’m focused on **Improving Accessibility & Usability** in modern UI/UX design.
-- 👨‍💻 All of my projects are available at  
-  👉 [**portfolio-v2-ten-puce.vercel.app**](https://portfolio-v2-ten-puce.vercel.app/)
+- 👨‍💻 All of my projects are available at [**portfolio-v2-ten-puce.vercel.app**](https://portfolio-v2-ten-puce.vercel.app/)
 - 💬 Ask me about **Responsive layouts & modern component-based architecture**.
 - ⚡ Fun fact: **Quantum computers** use qubits, allowing them to be 0 and 1 simultaneously! 🧠
 
@@ -36,7 +35,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codeigniter.svg" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/CodeIgniter_4-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
@@ -44,29 +43,25 @@
 
 ---
 
-### 📊 Github Stats
+### 📊 Github Activity
 
 <div align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=pororochan&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pororochan&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pororochan&theme=tokyonight&area=true&hide_border=true" />
 </div>
 
-<br />
+<br/>
 
 <div align="center">
-  <img
-    width="100%"
-    src="https://streak-stats.demolab.com/?user=pororochan&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=pororochan&layout=compact&theme=tokyonight&hide_border=true" height="200px"/>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://streak-stats.demolab.com/?user=pororochan&theme=tokyonight&hide_border=true" height="200px"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
