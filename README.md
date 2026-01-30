@@ -35,6 +35,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/codeigniter/codeigniter-icon.svg" alt="codeigniter" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
 </p>
@@ -42,11 +44,23 @@
 ---
 
 ### 📊 Github Stats
+
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pororochan&show_icons=true&theme=tokyonight" alt="Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pororochan&layout=compact&theme=tokyonight" alt="Top Langs" />
-  <br><br>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=pororochan&theme=tokyonight" alt="Streak" />
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pororochan&show_icons=true&theme=tokyonight" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pororochan&layout=compact&theme=tokyonight" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=pororochan&theme=tokyonight" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
