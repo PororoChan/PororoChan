@@ -46,6 +46,10 @@
 ### 📊 Github Stats
 
 <div align="center">
+  <img width="100%" src="https://metrics.lecoq.io/pororochan?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=Asia%2FJakarta" alt="Metrics" />
+  
+  <br><br>
+
   <table border="0">
     <tr>
       <td>
@@ -53,11 +57,6 @@
       </td>
       <td>
         <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pororochan&layout=compact&theme=tokyonight" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=pororochan&theme=tokyonight" />
       </td>
     </tr>
   </table>
